@@ -2064,7 +2064,7 @@ async function main(){ // main asyncronous thread; mostly initializes the user s
 		}
 		if (session.darkmode){
 			document.body.classList.add("darktheme");
-			document.querySelector(':root').style.setProperty('--background-color',"#02050c" );
+			// document.querySelector(':root').style.setProperty('--background-color',"#02050c" );
 		} else {
 			document.body.classList.remove("darktheme");
 			//document.querySelector(':root').style.setProperty('--background-color',"#141926" ); // already set as default. 
