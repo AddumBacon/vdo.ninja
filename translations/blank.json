@@ -329,7 +329,7 @@
     "logo-header": "\n<font id=\"qos\">V</font>DO.Ninja \n",
     "only-director-can-hear-you": "Only the director can hear you currently.",
     "director-muted-you": "The director has muted you.",
-    "add-group-chat": "Create a Room",
+    "add-group-chat": "Create Video Room",
     "rooms-allow-for": "Rooms allow for group-chat and the tools to manage multiple guests.",
     "room-name": "Room Name",
     "password-input-field": "Password",
