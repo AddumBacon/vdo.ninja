@@ -4236,10 +4236,10 @@ input:checked + .slider:before {
 .la-lock-open:before {
 	content: "\f3c1"; }
 @media (prefers-color-scheme: dark) {
-	:root {
-		--color-mode: dark;
-		--background-color: #02050c;
-	}
+    :root {
+        --color-mode: dark;
+        --background-color: #02050c;
+    }
 }
 
 body.darktheme {
