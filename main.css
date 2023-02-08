@@ -4238,7 +4238,7 @@ input:checked + .slider:before {
 @media (prefers-color-scheme: dark) {
     :root {
         --color-mode: dark;
-        --background-color: #02050c;
+        --background-color: blue;
     }
 }
 
